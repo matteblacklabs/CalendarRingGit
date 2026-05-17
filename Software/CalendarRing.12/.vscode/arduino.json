@@ -3,5 +3,5 @@
     "board": "esp32:esp32:XIAO_ESP32C3",
     "programmer": "esptool",
     "port": "/dev/tty.usbmodem14201",
-    "sketch": "CalendarRing.9.ino"
+    "sketch": "CalendarRing.12.ino"
 }

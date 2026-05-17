@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__claude_ai_Miro__diagram_get_dsl",
+      "mcp__claude_ai_Miro__diagram_create"
+    ]
+  }
+}
